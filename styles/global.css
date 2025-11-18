@@ -5,15 +5,28 @@
 }
 
 :root {
+  /* Colors */
+  --red: #e3646e;
+  --purple: #bb72e9;
+  --blue: #3996db;
+  --green: #82bc4f;
+  --yellow: #eabd5f;
+  --gray-100: #0d0e11;
+  --gray-200: #16181d;
+  --gray-300: #292c34;
+  --gray-400: #878ea1;
+  --gray-500: #c0c4ce;
+  --gray-600: #e2e4e9;
+
   /* Text */
   --font-family-asap: "Asap", sans-serif;
   --font-family-inconsolata: "Inconsolata", monospace;
   --font-family-maven-pro: "Maven Pro", sans-serif;
 
-  --h1: 700 56px/120% var(--font-family-asap);
-  --h2: 700 24px/120% var(--font-family-asap);
-  --h3: 700 16px/120% var(--font-family-asap);
-  --subtitle: 400 20px/120% var(--font-family-inconsolata);
-  --text-md: 400 16px/140% var(--font-family-maven-pro);
-  --text-sm: 400 14px/140% var(--font-family-maven-pro);
+  --h1: 700 56px/120% var(--font-family-asap) var(--gray-600);
+  --h2: 700 24px/120% var(--font-family-asap) var(--gray-600);
+  --h3: 700 16px/120% var(--font-family-asap) var(--gray-600);
+  --subtitle: 400 20px/120% var(--font-family-inconsolata) var(--red);
+  --text-md: 400 16px/140% var(--font-family-maven-pro) var(--gray-500);
+  --text-sm: 400 14px/140% var(--font-family-maven-pro) var(--gray-500);
 }
