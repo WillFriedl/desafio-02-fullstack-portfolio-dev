@@ -35,6 +35,10 @@ body {
   background-color: var(--gray-200);
 }
 
+#page {
+  margin: 80px 80px;
+}
+
 h1 {
   font: var(--h1);
   color: var(--gray-600);
@@ -57,4 +61,9 @@ sub, strong {
 p {
   font: var(--text-sm);
   color: var(--gray-500);
+}
+
+.background img {
+  width: 1366px;
+  object-fit: cover;
 }

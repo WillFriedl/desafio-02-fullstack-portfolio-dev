@@ -1,0 +1,51 @@
+#intro {
+  position: relative;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  :last-child {
+    img {
+      width: 96px;
+      height: 96px;
+      object-fit: cover;
+
+      margin-block: 120px 56px;
+    }
+  }
+
+}
+
+.content-box {
+  position: absolute;
+  width: 680px;
+}
+
+header  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+sub {
+  color: var(--gray-500);
+
+  strong {
+    color: var(--red);
+  }
+}
+
+h1 {
+  margin-block: 8px 20px;
+}
+
+p {
+  color: var(--gray-400);
+}
+
+#tags {
+ margin-block: 80px 183px;
+}
