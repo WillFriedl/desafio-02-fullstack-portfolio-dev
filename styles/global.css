@@ -32,10 +32,14 @@
 }
 
 body {
-  background-color: var(--gray-200);
+  background-color: var(--gray-300);
   width: 1366px;
   height: 100vh;
   margin: 80px auto;
+}
+
+#page {
+  background-color: var(--gray-200);
 }
 
 h1 {
