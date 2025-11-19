@@ -19,8 +19,14 @@
     display: flex;
     flex-direction: column;
     text-align: start;
+    background-color: var(--gray-300);
     border-radius: 12px;
     padding: 12px 12px 17px;
+
+    &:hover {
+      outline: 1px solid var(--gray-400);
+      cursor: pointer;
+    }
   }
 
   img {
@@ -36,13 +42,14 @@
 }
 
 main {
+  background-color: var(--gray-200);
   padding-top: 72px;
   
   h2 {
     margin-block: 8px 56px;
   }
 
-  #projects {
+  #cards {
     background-color: var(--gray-100);
     
     margin-top: 144px;
@@ -52,7 +59,6 @@ main {
       display: flex;
       justify-content: center;
       text-align: start;
-      /* width: 888px; */
       gap: 24px;
 
       > div {
