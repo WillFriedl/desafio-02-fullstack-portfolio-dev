@@ -1,6 +1,6 @@
 # 🌎 Desafio 02 Rocketseat — Portfólio Dev
 
-Projeto desenvolvido como parte do **Desafio 02** do curso **Full Stack**, com o objetivo de construir uma página estática apresentando um **Portfólio de **.
+Projeto desenvolvido como parte do **Desafio 02** do curso **Full Stack**, com o objetivo de construir uma página estática apresentando um **Portfólio de desenvolvedor **.
 
 ## 🖥️ Tecnologias utilizadas
 
