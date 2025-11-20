@@ -25,44 +25,44 @@
 
     &:nth-child(1) {
       span:nth-child(1) {
-        background-image: url(/assets/icons/LinkedinLogo.svg);
+        background-image: url(../assets/icons/LinkedinLogo.svg);
       }
 
       span:nth-child(3) {
-        background-image: url(/assets/icons/ArrowUpRight.svg);
+        background-image: url(../assets/icons/ArrowUpRight.svg);
         background-size: contain;
       }
     }
 
     &:nth-child(2) {
       span:nth-child(1) {
-        background-image: url(/assets/icons/InstagramLogo.svg);
+        background-image: url(../assets/icons/InstagramLogo.svg);
       }
 
       span:nth-child(3) {
-        background-image: url(/assets/icons/ArrowUpRight.svg);
+        background-image: url(../assets/icons/ArrowUpRight.svg);
         background-size: contain;
       }
     }
 
     &:nth-child(3) {
       span:nth-child(1) {
-        background-image: url(/assets/icons/GithubLogo.svg);
+        background-image: url(../assets/icons/GithubLogo.svg);
       }
 
       span:nth-child(3) {
-        background-image: url(/assets/icons/ArrowUpRight.svg);
+        background-image: url(../assets/icons/ArrowUpRight.svg);
         background-size: contain;
       }
     }
 
     &:nth-child(4) {
       span:nth-child(1) {
-        background-image: url(/assets/icons/EnvelopeSimple.svg);
+        background-image: url(../assets/icons/EnvelopeSimple.svg);
       }
 
       span:nth-child(3) {
-        background-image: url(/assets/icons/ArrowUpRight.svg);
+        background-image: url(../assets/icons/ArrowUpRight.svg);
         background-size: contain;
       }
     }
@@ -83,41 +83,41 @@
 
     &:nth-child(1):hover {
       span:first-child {
-        background-image: url(/assets/icons/LinkedinLogo-Hover.svg);
+        background-image: url(../assets/icons/LinkedinLogo-Hover.svg);
       }
 
       span:last-child {
-        background-image: url(/assets/icons/ArrowUpRight-hover.svg);
+        background-image: url(../assets/icons/ArrowUpRight-hover.svg);
       }
     }
 
     &:nth-child(2):hover {
       span:first-child {
-        background-image: url(/assets/icons/InstagramLogo-Hover.svg);
+        background-image: url(../assets/icons/InstagramLogo-Hover.svg);
       }
 
       span:last-child {
-        background-image: url(/assets/icons/ArrowUpRight-hover.svg);
+        background-image: url(../assets/icons/ArrowUpRight-hover.svg);
       }
     }
 
     &:nth-child(3):hover {
       span:first-child {
-        background-image: url(/assets/icons/GithubLogo-Hover.svg);
+        background-image: url(../assets/icons/GithubLogo-Hover.svg);
       }
 
       span:last-child {
-        background-image: url(/assets/icons/ArrowUpRight-hover.svg);
+        background-image: url(../assets/icons/ArrowUpRight-hover.svg);
       }
     }
 
     &:nth-child(4):hover {
       span:first-child {
-        background-image: url(/assets/icons/EnvelopeSimple-Hover.svg);
+        background-image: url(../assets/icons/EnvelopeSimple-Hover.svg);
       }
 
       span:last-child {
-        background-image: url(/assets/icons/ArrowUpRight-hover.svg);
+        background-image: url(../assets/icons/ArrowUpRight-hover.svg);
       }
     }
 
