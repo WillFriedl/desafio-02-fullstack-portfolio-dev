@@ -1,0 +1,14 @@
+#contact {
+
+  .content-box {
+    padding-top: 128px;
+  }
+
+  sub {
+    color: var(--purple);
+  }
+
+  h2 {
+    margin-block: 8px;
+  }
+}
